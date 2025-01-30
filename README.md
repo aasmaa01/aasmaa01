@@ -42,3 +42,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasmaa01&" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/72/16/90/7216901ce95c8c477170f7560dad03db.jpg" alt="Custom Image" width="400" />
+</p>

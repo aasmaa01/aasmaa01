@@ -1,6 +1,5 @@
-[![MasterHead]![image](https://github.com/user-attachments/assets/a6eafcef-e827-4404-9e66-399099d89e36)
-![Uploading image.png…]()
-))](https://aasmaa01.github.io/Personal-Profile/)
+![image](https://github.com/user-attachments/assets/148b73d5-6fb3-40f3-baf6-e6e733830a51)
+(https://aasmaa01.github.io/Personal-Profile/)
 <h1 align="center">Hi 👋, I'm Asma Soltani</h1>
 <h3 align="center">A passionate Full Stack DEVELOPER from Algeria</h3>
 

@@ -13,9 +13,7 @@
 
 - 💻 All of my projects are available at [My Portfolio](https://aasmaa01.github.io/Personal-Profile/#projects)
 - 💌 How to reach me: **asmaesoltaniii@gmail.com**
-- 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
-- ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 📫 Connect with Me
 

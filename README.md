@@ -53,5 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasmaa01&" alt="GitHub Streak Stats" />
+  <a href="https://github.com/aasmaa01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasmaa01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>

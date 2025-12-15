@@ -68,17 +68,15 @@
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasmaa01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aasmaa01&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasmaa01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://readme-streak-stats.vercel.app/?user=aasmaa01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+
 
 ---
 

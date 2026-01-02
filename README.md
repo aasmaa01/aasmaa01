@@ -6,7 +6,6 @@
 ## About Me
 - Computer science student exploring full-stack development  
 - Building small projects to improve my skills  
-- Portfolio: [My Projects](https://aasmaa01.github.io/Personal-Profile/)  
 
 
 ---
@@ -68,14 +67,9 @@
 
 ##  GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasmaa01&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://readme-streak-stats.vercel.app/?user=aasmaa01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
 
 
 ---
